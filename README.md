@@ -4,25 +4,25 @@
 
 ## Задание 1 ![1](https://github.com/user-attachments/assets/fc9fb406-3cc6-432b-924b-25933c173d29)
 
-![2](https://github.com/user-attachments/assets/cb333cc4-7c93-44d7-84f6-82dd40b2a915)
+## Задание 1![2](https://github.com/user-attachments/assets/cb333cc4-7c93-44d7-84f6-82dd40b2a915)
 
-![3](https://github.com/user-attachments/assets/bba576a4-44b8-48f9-8f1e-7cbaa57fffc6)
+## Задание 1![3](https://github.com/user-attachments/assets/bba576a4-44b8-48f9-8f1e-7cbaa57fffc6)
 
-![4](https://github.com/user-attachments/assets/bdb85f38-d930-4a3e-a385-c03bfd4b9d2c)
+## Задание 1![4](https://github.com/user-attachments/assets/bdb85f38-d930-4a3e-a385-c03bfd4b9d2c)
 
-![5](https://github.com/user-attachments/assets/0f018046-3717-4e7d-b699-f11cf6a5f2bc)
+## Задание 1![5](https://github.com/user-attachments/assets/0f018046-3717-4e7d-b699-f11cf6a5f2bc)
 
-![6](https://github.com/user-attachments/assets/de5fcfc6-63f4-4197-b01c-17323ad7067b)
+## Задание 1![6](https://github.com/user-attachments/assets/de5fcfc6-63f4-4197-b01c-17323ad7067b)
 
-![7](https://github.com/user-attachments/assets/fc9fb406-3cc6-432b-924b-25933c173d29)
+## Задание 1![7](https://github.com/user-attachments/assets/fc9fb406-3cc6-432b-924b-25933c173d29)
 
-![8](https://github.com/user-attachments/assets/938e5511-844b-4888-b097-00342ca85e88)
+## Задание 1![8](https://github.com/user-attachments/assets/938e5511-844b-4888-b097-00342ca85e88)
 
-![9](https://github.com/user-attachments/assets/e4912703-b233-4469-855b-a22578e3da03)
+## Задание 1![9](https://github.com/user-attachments/assets/e4912703-b233-4469-855b-a22578e3da03)
 
-![10](https://github.com/user-attachments/assets/b18acee0-db6e-4bcd-b428-76f3f3a071a4)
+## Задание 1![10](https://github.com/user-attachments/assets/b18acee0-db6e-4bcd-b428-76f3f3a071a4)
 
-![11](https://github.com/user-attachments/assets/4d84a753-d5af-4b6c-a905-00e2fade23db)
+## Задание 1![11](https://github.com/user-attachments/assets/4d84a753-d5af-4b6c-a905-00e2fade23db)
 
 ![12](https://github.com/user-attachments/assets/6fcef4b1-fe64-439d-a8e4-8aee02c926bc)
 
