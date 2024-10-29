@@ -2,7 +2,7 @@
 **#Дз
 Шахов Никита П-22-3-2
 
-![1](https://github.com/user-attachments/assets/fc9fb406-3cc6-432b-924b-25933c173d29)
+**Задание 1 ![1](https://github.com/user-attachments/assets/fc9fb406-3cc6-432b-924b-25933c173d29)
 
 ![2](https://github.com/user-attachments/assets/cb333cc4-7c93-44d7-84f6-82dd40b2a915)
 
