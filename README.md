@@ -1,5 +1,4 @@
-# DPK1
-## Дз
+# ДЗШКА
 ## Шахов Никита П-22-3-2
 
 ## Задание 1 ![1](https://github.com/user-attachments/assets/fc9fb406-3cc6-432b-924b-25933c173d29)
