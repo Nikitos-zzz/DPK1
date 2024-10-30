@@ -90,7 +90,7 @@
 ## Задание 20 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/20.PNG)
 
 -----------------------------| Индивидуальные |--------------------------------------
-## Задание 1 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m1.PNG)
+## Задание 1 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m1.png)
 
 ## Задание 2 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m2.PNG)
 
