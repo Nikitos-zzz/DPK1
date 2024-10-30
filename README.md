@@ -92,32 +92,32 @@
 -----------------------------| Индивидуальные |--------------------------------------
 ## Задание 1 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m1.png)
 
-## Задание 2 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m2.PNG)
+## Задание 2 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m2.png)
 
-## Задание 3 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m3.PNG)
+## Задание 3 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m3.png)
 
-## Задание 4 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m4.PNG) 
+## Задание 4 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m4.png) 
 
-## Задание 5 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m5.PNG)
+## Задание 5 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m5.png)
 
-## Задание 6 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m6.PNG)
+## Задание 6 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m6.png)
 
-## Задание 7 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m7.PNG)
+## Задание 7 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m7.png)
 
-## Задание 8 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m8.PNG)
+## Задание 8 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m8.png)
 
-## Задание 9 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m9.PNG) 
+## Задание 9 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m9.png) 
 
-## Задание 10 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m10.PNG) 
+## Задание 10 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m10.png) 
 
-## Задание 11 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m11.PNG) 
+## Задание 11 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m11.png) 
 
-## Задание 12 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m12.PNG)
+## Задание 12 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m12.png)
 
-## Задание 13 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m13.PNG) 
+## Задание 13 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m13.png) 
 
-## Задание 14 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m14.PNG) 
+## Задание 14 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m14.png) 
 
-## Задание 15 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m15.PNG) 
+## Задание 15 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/m15.png) 
 
 -----------------------------------------------------------------
