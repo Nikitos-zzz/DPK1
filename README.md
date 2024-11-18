@@ -140,6 +140,36 @@
 ------------------------------------------------------------------
 ## Практическая 2МП
 
+## Задание 1 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM1.png)
+
+## Задание 2 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM2.png)
+
+## Задание 3 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM3.png)
+
+## Задание 4 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM4.png)
+
+## Задание 5 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM5.png)
+
+## Задание 6 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM6.png)
+
+## Задание 7 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM7.png)
+
+## Задание 8 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM8.png)
+
+## Задание 9 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM9.png)
+
+## Задание 10 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM10.png)
+
+## Задание 11 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM11.png)
+
+## Задание 12 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM12.png)
+
+## Задание 13 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM13.png)
+
+## Задание 14 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM14.png)
+
+## Задание 15 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM15.png)
+
 ------------------------------------------------------------------
 
 
