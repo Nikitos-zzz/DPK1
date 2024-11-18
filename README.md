@@ -140,7 +140,7 @@
 ------------------------------------------------------------------
 ## Практическая 2МП
 
-## Задание 1 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM1.png)
+## Задание 1 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM1.PNG)
 
 ## Задание 2 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/PM2.png)
 
