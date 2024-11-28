@@ -129,6 +129,53 @@
 -----------------------------------------------------------------
 
 ## Практическая 3
+## Задание 1 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/1SP.PNG)
+
+## Задание 2 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/2SP.PNG)
+
+## Задание 3 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/3SP.PNG)
+
+## Задание 4 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/4SP.PNG)
+
+## Задание 5 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/5SP.PNG)
+
+## Задание 6 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/6SP.PNG)
+
+## Задание 7 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/7SP.PNG)
+
+## Задание 8 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/8SP.PNG)
+
+## Задание 9 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/9SP.PNG)
+
+## Задание 10 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/10SP.PNG)
+
+## Задание 11 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/11SP.PNG)
+
+## Задание 12 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/12SP.PNG)
+
+## Задание 13 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/13SP.PNG)
+
+## Задание 14 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/14SP.PNG)
+
+## Задание 15 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/15SP.PNG)
+
+## Задание 17 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/17SP.PNG)
+
+## Задание 18 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/18SP.PNG)
+
+## Задание 19 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/19SP.PNG)
+
+## Задание 20 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/20SP.PNG)
+
+## Задание 21 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/21SP.PNG)
+
+## Задание 22 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/22SP.PNG)
+
+## Задание 23 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/23SP.PNG)
+
+## Задание 24 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/24SP.PNG)
+
+## Задание 25 ![](https://github.com/Nikitos-zzz/DPK1/blob/main/screeenshots/25SP.PNG)
 
 -----------------------------------------------------------------
 
